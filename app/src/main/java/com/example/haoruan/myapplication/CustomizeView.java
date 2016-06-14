@@ -98,7 +98,5 @@ public class CustomizeView extends View    {
         // 重绘
         invalidate();
     }
-    public void sesnd(int i){
 
-    }
 }
